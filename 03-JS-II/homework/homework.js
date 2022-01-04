@@ -104,7 +104,7 @@ function esEntero(numero) {
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
 
-  if (Math.ceil(numero) === Math.floor(numero)) return true
+  if (Math.ceil(numero) === Math.floor(numero)) return true //ver si el numero es entero
   else return false;
 }
 
